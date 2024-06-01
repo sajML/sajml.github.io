@@ -34,6 +34,16 @@ layout: default
 
 
 ## Projects
+
+### Agilent LED Display 7-Segment, 4-Digit PCB Design) [Github Link](https://github.com/sajML/PCB-Design-with-Altium)
+![Image PCB](/assets/img/pcb1.PNG)
+Designed and developed a PCB from conception to production using Altium Designer for an Agilent LED Display 7-Segment, 4-Digit
+Conducted initial research to understand project requirements and specifications.
+Created schematic diagrams and PCB layouts using Altium Designer software.
+Optimized PCB layout for signal integrity, thermal management, and manufacturability.
+Implemented design revisions based on feedback and testing results.
+
+
 ### Interactive Dashboard for British Airways Reviews (2023 Dataset) [Tableau Link](https://public.tableau.com/app/profile/sajjad.goudarzi/viz/Biritish_Airways_Reviews_2023/Dashboard1)
 ![BA dashboard](/assets/img/ba_reviews_dash.PNG)
 Developed an interactive dashboard using web scraping with Python's Beautiful Soup library and Tableau to analyze over 3700 British Airways reviews from airlinequality.com. Uncovered valuable customer preferences and insights, resulting in a notable 15% increase in customer satisfaction and a significant 20% rise in repeat bookings through data-driven strategies.
