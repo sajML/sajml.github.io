@@ -36,7 +36,7 @@ layout: default
 ## Projects
 
 ### Agilent LED Display 7-Segment, 4-Digit PCB Design) [Github Link](https://github.com/sajML/PCB-Design-with-Altium)
-![Image PCB](/assets/img/pcb1.PNG)
+![Image PCB](/assets/img/pcb1.png)
 Designed and developed a PCB from conception to production using Altium Designer for an Agilent LED Display 7-Segment, 4-Digit
 Conducted initial research to understand project requirements and specifications.
 Created schematic diagrams and PCB layouts using Altium Designer software.
