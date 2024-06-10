@@ -7,7 +7,7 @@ layout: default
 #### Technical Skills: Tableau | SQL | BigQuery | Sheets | Excel | Power BI | Python | R
 
 ## Education
-- M.S., Telecommunication	| The University of Texas at Dallas (_2021 2024_)
+- M.S., Telecommunication	| Plitecnico di Milano (_2021 2024_)
 > Relevant Coursework: Data Mining, Computer Networks, Network Design, Database II, Artificial Intelligence
 
 
@@ -35,7 +35,11 @@ layout: default
 
 ## Projects
 
-### Agilent LED Display 7-Segment, 4-Digit PCB Design) [Github Link](https://github.com/sajML/PCB-Design-with-Altium)
+### Business Analysis on Yelp Dataset [Github Link](https://github.com/sajML/PCB-Design-with-Altium)
+
+Analyzed top businesses using Python, Pyspark and PostgreSQL. Evaluated based on reviews and average star rating, and five-star ratio. Challenging aspects included : data loading, cleaning, and designing an ERD
+
+### Agilent LED Display 7-Segment, 4-Digit PCB Design [Github Link](https://github.com/sajML/PCB-Design-with-Altium)
 ![Image PCB](/assets/img/pcb1.png)
 Designed and developed a PCB from conception to production using Altium Designer for an Agilent LED Display 7-Segment, 4-Digit
 Conducted initial research to understand project requirements and specifications.
