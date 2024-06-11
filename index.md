@@ -2,10 +2,31 @@
 layout: default
 ---
 # Python Developer & Data Engineer & AWS Expert
-> I love Pizza and Big Cities
+> I love Pizza and Big Cities!
 
+## My Skills
 
-## Education
+<dl>
+<dt>Programming and Scripting</dt>
+<dd>Python · SQL · JavaScript · R · C++</dd>
+
+<dt>Data Analytics and Visualization</dt>
+<dd>Power BI · Tableau · Excel</dd>
+
+<dt>Cloud</dt>
+<dd>AWS (Lambda, DynamoDB, S3, EC2, Glue, MSK, Cloudformation) · BigQuery</dd>
+
+<dt>DevOps and CI/CD</dt>
+<dd>GIT · Docker · Terraform · CodePipeline · GitHub Actions</dd>
+
+<dt>Others</dt>
+<dd>PySpark · Next · REST · Confluent</dd>
+
+<dt>Languages </dt>
+<dd>English : Fluent | Italian : pre intermediate | Persian : Native</dd>
+</dl>
+
+## My Education
 - M.S., Telecommunication	| Plitecnico di Milano (_2021 2024_)
 > Relevant Coursework: Data Mining, Computer Networks, Network Design, Database II, Artificial Intelligence
 
@@ -32,7 +53,7 @@ layout: default
 - Acquired proficiency in .NET and C# programming through practical applications in real-world projects, such as the development of a Windows application for a library.
 
 
-## Projects
+## My Projects
 
 ### End-to-end streaming pipeline with Apache Kafka on Amazon MSK using Python [Github Link](https://github.com/sajML/pipeline-Kafka-MSK-Python)
 
@@ -72,33 +93,6 @@ Create a Supervised Machine Learning **Classifier** capable of forecasting user 
 
 
 ## CERTIFICATIONS
+- AWS Cloud Technical Essentials (Ongoing)
 - Google Data Analytics Professional Certificate.
 - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/RJGKP7MEL6XP)
-
-
-## ADDITIONAL
-Programming and Scripting: Python · SQL · JavaScript · R · C++
-● Data Analytics and Visualization: Power BI · Tableau · Excel
-● Cloud: AWS (Lambda, DynamoDB, S3, EC2, Glue, MSK, Cloudformation) · BigQuery
-● DevOps and CI/CD: GIT · Docker · Terraform · CodePipeline · GitHub Actions
-● Others: PySpark · Next · REST · Confluent
-
-<dl>
-<dt>Programming and Scripting</dt>
-<dd>Python · SQL · JavaScript · R · C++</dd>
-
-<dt>Data Analytics and Visualization</dt>
-<dd>Power BI · Tableau · Excel</dd>
-
-<dt>Cloud</dt>
-<dd>AWS (Lambda, DynamoDB, S3, EC2, Glue, MSK, Cloudformation) · BigQuery</dd>
-
-<dt>DevOps and CI/CD</dt>
-<dd>GIT · Docker · Terraform · CodePipeline · GitHub Actions</dd>
-
-<dt>Others</dt>
-<dd>PySpark · Next · REST · Confluent</dd>
-
-<dt>Languages </dt>
-<dd>English : Fluent | Italian : pre intermediate | Persian : Native</dd>
-</dl>
