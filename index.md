@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-# Python Developer & Data Engineer
+# Python Developer & Data Engineer & AWS Expert
 > I love Pizza and Big Cities
 
-#### Technical Skills: Tableau | SQL | BigQuery | Sheets | Excel | Power BI | Python | R
 
 ## Education
 - M.S., Telecommunication	| Plitecnico di Milano (_2021 2024_)
@@ -34,6 +33,11 @@ layout: default
 
 
 ## Projects
+
+### End-to-end streaming pipeline with Apache Kafka on Amazon MSK using Python [Github Link](https://github.com/sajML/pipeline-Kafka-MSK-Python)
+
+### Streaming application to process Amazon MSK data using AWS Glue Schema Registry [Github Link](https://github.com/sajML/streaming-Glue-MSK-CloudFormation)
+
 
 ### Business Analysis on Yelp Dataset [Github Link](https://github.com/sajML/PCB-Design-with-Altium)
 
@@ -73,12 +77,28 @@ Create a Supervised Machine Learning **Classifier** capable of forecasting user 
 
 
 ## ADDITIONAL
+Programming and Scripting: Python · SQL · JavaScript · R · C++
+● Data Analytics and Visualization: Power BI · Tableau · Excel
+● Cloud: AWS (Lambda, DynamoDB, S3, EC2, Glue, MSK, Cloudformation) · BigQuery
+● DevOps and CI/CD: GIT · Docker · Terraform · CodePipeline · GitHub Actions
+● Others: PySpark · Next · REST · Confluent
 
 <dl>
-<dt>Main Skills</dt>
-<dd>Python | Power BI | Tableau | SQL | BigQuery | Excel | GIT | CI/CD</dd>
-<dt>Other Skills</dt>
-<dd>JavaScript | React | Next js | AWS | Azure | REST | SOAP | R | Critical Thinking</dd>
+<dt>Programming and Scripting</dt>
+<dd>Python · SQL · JavaScript · R · C++</dd>
+
+<dt>Data Analytics and Visualization</dt>
+<dd>Power BI · Tableau · Excel</dd>
+
+<dt>Cloud</dt>
+<dd>AWS (Lambda, DynamoDB, S3, EC2, Glue, MSK, Cloudformation) · BigQuery</dd>
+
+<dt>DevOps and CI/CD</dt>
+<dd>GIT · Docker · Terraform · CodePipeline · GitHub Actions</dd>
+
+<dt>Others</dt>
+<dd>PySpark · Next · REST · Confluent</dd>
+
 <dt>Languages </dt>
 <dd>English : Fluent | Italian : pre intermediate | Persian : Native</dd>
 </dl>
